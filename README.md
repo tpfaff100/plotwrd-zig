@@ -1,17 +1,18 @@
 # plotwrd-zig
 Font generator written for zig.  Writes from top down instead of left to right.
+Compiles to 28kilobytes.
 
-Compile with 
+Compile with:
 
 zig build-exe plotwrd.zig -O ReleaseSmall -fstrip -fsingle-threaded
 
 to build a very small font generator.
 
-This version just outputs in text but I have used it since the Apple II/TRS-80 days to draw graphics.
+This version just outputs in text but I have used it since the Apple II/TRS-80 days for graphics.
 Fairly easy to port ot anything, including C or Assembly language.
 That's why I keep it around... it's an old tool.
 
-I wasn't feeling well today so wrote the zig version of plotwrd.
+I wasn't feeling well today so just quickly hammered out this zig version of 'plotwrd.'
 
 Syntax is:
 

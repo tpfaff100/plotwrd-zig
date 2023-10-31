@@ -22,3 +22,5 @@ And watch it go.
 I only support a 5x7 font in this version.  Decwriter II style font, more or less.
 
 
+
+![alt text](https://github.com/tpfaff100/plotwrd-zig/blob/main/show.jpg?raw=true)
